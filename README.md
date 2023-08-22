@@ -1,8 +1,5 @@
 # pgweb-acara1
 Perencanaan produk web GIS dan Git
-___
-terserah
-
 Buah
 1. nangka
 2. rambutan
