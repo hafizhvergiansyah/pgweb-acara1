@@ -1,18 +1,7 @@
 # pgweb-acara1
 Perencanaan produk web GIS dan Git
-Buah
-1. nangka
-2. rambutan
-3. durian
 
-Code:
-``` ini code ya ges
-!html//
-write those code
- ```
 
- ***
-[google](google.com)
 
 Nama: hafizh vergiansyah
 
